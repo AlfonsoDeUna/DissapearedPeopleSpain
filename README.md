@@ -9,4 +9,10 @@ For now I'm going to make the study in R
 
 From Goverment page I've found a servlet which return json with all information. So the first attempt will be to break down this call and try to extract json data to R
 
+```
+  
+  https://cndes-web.ses.mir.es/publico/Desaparecidos/dao/ServletDesaparecidos
+  
+```
+
 
