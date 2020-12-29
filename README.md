@@ -15,4 +15,5 @@ From Goverment page I've found a servlet which return json with all information.
   
 ```
 
+From private calls I've found *strict origin when cross origin* and block the call.
 
